@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/veterinaria-react/static/css/main.4a0a90cb.chunk.css",
+    "main.js": "/veterinaria-react/static/js/main.ab937464.chunk.js",
+    "main.js.map": "/veterinaria-react/static/js/main.ab937464.chunk.js.map",
+    "runtime-main.js": "/veterinaria-react/static/js/runtime-main.e801a7e3.js",
+    "runtime-main.js.map": "/veterinaria-react/static/js/runtime-main.e801a7e3.js.map",
+    "static/js/2.a7dfad6f.chunk.js": "/veterinaria-react/static/js/2.a7dfad6f.chunk.js",
+    "static/js/2.a7dfad6f.chunk.js.map": "/veterinaria-react/static/js/2.a7dfad6f.chunk.js.map",
+    "index.html": "/veterinaria-react/index.html",
+    "precache-manifest.a2393a7838593181da6e046f01c6b692.js": "/veterinaria-react/precache-manifest.a2393a7838593181da6e046f01c6b692.js",
+    "service-worker.js": "/veterinaria-react/service-worker.js",
+    "static/css/main.4a0a90cb.chunk.css.map": "/veterinaria-react/static/css/main.4a0a90cb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e801a7e3.js",
+    "static/js/2.a7dfad6f.chunk.js",
+    "static/css/main.4a0a90cb.chunk.css",
+    "static/js/main.ab937464.chunk.js"
+  ]
+}
